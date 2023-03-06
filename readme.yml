@@ -1,0 +1,3 @@
+echo "hstech development file"
+echo "please enter your username"
+read username
